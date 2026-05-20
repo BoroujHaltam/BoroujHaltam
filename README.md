@@ -19,7 +19,7 @@ This is my GitHub space where I learn, build, and grow step by step 🚀
 - Programming Fundamentals  
 - Problem Solving Skills  
 - Basic Data Structures  
-- Intro to Software Development  
+- Use OOP in project
 
 ---
 
