@@ -43,7 +43,7 @@ This is my GitHub space where I learn, build, and grow step by step 🚀
 
 - GitHub: (put your profile link here)
 - LinkedIn: (optional)
-- Email: (optional)
+- Email: boroujhaltam@gmail.com
 
 ---
 
