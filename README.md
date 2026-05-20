@@ -27,8 +27,6 @@ This is my GitHub space where I learn, build, and grow step by step 🚀
 
 - C / C++ Basics  
 - Java Basics  
-- Python Basics  
-- HTML & CSS  
 - Git & GitHub Basics  
 
 ---
